@@ -1,2 +1,8 @@
 # TeaSpoon
-Tea Spoon
+
+TeaSpoon is a RubyGem that does something amazing!
+
+## Installation
+
+```bash
+gem install teaspoon
